@@ -1,0 +1,1 @@
+print("sum of 2 and 8 =", 2+8 )
