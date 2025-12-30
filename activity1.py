@@ -1,1 +1,8 @@
-print("sum of 2 and 8 =", 2+8 )
+print ("hello")
+num = 5
+print (num)
+y = ("john")
+print (y)
+x=5
+y=10
+print(x+y)
